@@ -13,16 +13,34 @@ If you want NotebookLM to consistently generate slides that hit, **this is the r
 
 ## Table of Contents
 
+### A. Editorial & Business Styles
 - [Modern Newspaper](#modern-newspaper)
 - [Sharp-edged Minimalism](#sharp-edged-minimalism)
 - [Yellow × Black Editorial](#yellow--black-editorial)
 - [Black × Orange Creative Agency](#black--orange-creative-agency)
+- [For Seminar Use (Minimal Text)](#for-seminar-use-minimal-text)
+
+### B. Pop, Youth, and Street Styles
 - [Manga Style](#manga-style)
-- [Magazine Style (Mature × Cute Editorial)](#magazine-style-mature--cute-editorial)
+- [Magazine Style](#magazine-style)
 - [Pink Street-style](#pink-street-style)
-- [Mincho × Handwritten Mix](#mincho--handwritten-mix)
-- [Seminar Minimal Style](#seminar-minimal-style)
-- [Royal Blue × Red Watercolor](#royal-blue--red-watercolor)
+- [Digital / Neo / Pop](#digital--neo--pop)
+
+### C. Typography / Font-driven Styles
+- [Mincho × Handwritten Mix](#mincho-font--handwritten-mix)
+
+### D. Artistic & Avant-Garde Styles
+- [Royal Blue × Red Watercolor](#royal-blue-and-red)
+- [Classic / Pop (Sculpture × Vaporwave)](#classic--pop)
+- [Tech / Art / Neon](#tech--art--neon)
+
+### E. Professional / Product / Premium
+- [Studio / Mockup / Premium](#studio--mockup--premium)
+
+### F. Sports & High-energy Styles
+- [Sports / Athletic / Energy](#sports--athletic--energy)
+
+
 
 
 ### **modern newspaper:**

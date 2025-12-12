@@ -13,19 +13,36 @@ If you want NotebookLM to consistently generate slides that hit, **this is the r
 
 ## Table of Contents
 
+### A. Editorial & Business Styles
 - [Modern Newspaper](#modern-newspaper)
 - [Sharp-edged Minimalism](#sharp-edged-minimalism)
 - [Yellow × Black Editorial](#yellow--black-editorial)
 - [Black × Orange Creative Agency](#black--orange-creative-agency)
+- [For Seminar Use (Minimal Text)](#for-seminar-use-minimal-text)
+
+### B. Pop, Youth, and Street Styles
 - [Manga Style](#manga-style)
-- [Magazine Style (Mature × Cute Editorial)](#magazine-style-mature--cute-editorial)
+- [Magazine Style](#magazine-style)
 - [Pink Street-style](#pink-street-style)
-- [Mincho × Handwritten Mix](#mincho--handwritten-mix)
-- [Seminar Minimal Style](#seminar-minimal-style)
-- [Royal Blue × Red Watercolor](#royal-blue--red-watercolor)
+- [Digital / Neo / Pop](#digital--neo--pop)
+
+### C. Typography / Font-driven Styles
+- [Mincho × Handwritten Mix](#mincho-font--handwritten-mix)
+
+### D. Artistic & Avant-Garde Styles
+- [Royal Blue × Red Watercolor](#royal-blue-and-red)
+- [Classic / Pop (Sculpture × Vaporwave)](#classic--pop)
+- [Tech / Art / Neon](#tech--art--neon)
+
+### E. Professional / Product / Premium
+- [Studio / Mockup / Premium](#studio--mockup--premium)
+
+### F. Sports & High-energy Styles
+- [Sports / Athletic / Energy](#sports--athletic--energy)
 
 
-### **modern newspaper:**
+
+## **modern newspaper:**
 
 ![image](https://hackmd.io/_uploads/SkkpwiPM-g.png)
 ![image](https://hackmd.io/_uploads/rJZ0pyKGbg.png)
@@ -74,7 +91,7 @@ Based on the following "design definition," generate a visually focused, high-se
 
 
 
-### **sharp-edged minimalism:**
+## **sharp-edged minimalism:**
 
 ![image](https://hackmd.io/_uploads/S1AgdjvzZx.png)
 ![image](https://hackmd.io/_uploads/r16fOsDMZe.png)
@@ -158,7 +175,7 @@ Layout Variations (Catalog):
 ```
 *source: https://x.com/yoshifujidesign/status/1997878247322001626?s=20*
 
-### **yellow x black:**
+## **yellow x black:**
 
 ![unnamed](https://hackmd.io/_uploads/r1CQYiwz-l.jpg)
 ![unnamed-2](https://hackmd.io/_uploads/SymEYsDM-g.jpg)
@@ -168,7 +185,7 @@ Yellow background, black text, large dynamic modern serif font placement, stylis
 ```
 source: [Kawai](https://x.com/kawai_design)
 
-### Black x Orange Style
+## Black x Orange Style
 
 ![image](https://hackmd.io/_uploads/rJtz5yFMWx.png)
 
@@ -178,7 +195,7 @@ source: [Kawai](https://x.com/kawai_design)
 Background is white, text is black, accent color is blood orange, stylish design that a creative agency might create, incorporating dynamic and simple photos and English typography
 ```
 source: [Kawai](https://x.com/kawai_design)
-### Manga style
+## Manga style
 
 ![image](https://hackmd.io/_uploads/SygJvqkKf-l.png)
 ![image](https://hackmd.io/_uploads/r1Ew9yYMZl.png)
@@ -190,7 +207,7 @@ Understanding becomes deeper with "fun." Sometimes, it's recommended to turn inf
 ```
 source: [Kawai](https://x.com/kawai_design)
 
-### Magazine style
+## Magazine style
 
 ![image](https://hackmd.io/_uploads/rkQpqyKfbg.png)
 
@@ -220,7 +237,7 @@ Please compile [Source Information] in a [mature-cute, sophisticated magazine-st
 ```
 source: https://x.com/tetumemo/status/1996930284500201685?s=20
 
-### pink street-style
+## pink street-style
 
 ![image](https://hackmd.io/_uploads/SJJDi1KzZe.png)
 ![image](https://hackmd.io/_uploads/S1NPsJKM-l.png)
@@ -230,7 +247,7 @@ Background is pink, text is white and black, illustrative illustrations are pop 
 ```
 source: [Kawai](https://x.com/kawai_design)
 
-### Mincho font + Handwritten MIX
+## Mincho font + Handwritten MIX
 
 ![Screenshot 2025-12-11 at 17.15.57](https://hackmd.io/_uploads/HkcRhytMWg.png)
 ![Screenshot 2025-12-11 at 17.16.12](https://hackmd.io/_uploads/r1D1a1Yfbe.png)
@@ -240,7 +257,7 @@ Yellow background, black text, large dynamic modern serif font placement, stylis
 source: [Kawai](https://x.com/kawai_design)
 
 
-### For seminar use, minimal text
+## For seminar use, minimal text
 
 ![Screenshot 2025-12-11 at 17.17.55](https://hackmd.io/_uploads/HJASpkYGbl.png)
 ![Screenshot 2025-12-11 at 17.18.07](https://hackmd.io/_uploads/Bks861tGWx.png)
@@ -261,7 +278,7 @@ Shades of royal Blue and Red wet watercolor.  Focus on different artistic styles
 source: https://x.com/kottley/status/1994442047579721782?s=20
 
 
-### Studio / Mockup / Premium
+## Studio / Mockup / Premium
 
 ![image](https://hackmd.io/_uploads/BkZwrxtzWl.png)
 ![image](https://hackmd.io/_uploads/SyYvrxYzWe.png)
@@ -342,7 +359,7 @@ Design Rules:
 source: https://note.com/yoshifujidesign/n/n7412bccb5762
 
 
-### Sports / Athletic / Energy
+## Sports / Athletic / Energy
 
 ![image](https://hackmd.io/_uploads/BJChHgFGZx.png)
 ![image](https://hackmd.io/_uploads/SkQ6BgFzZg.png)
@@ -388,7 +405,7 @@ Layout Variations:
 source:
 https://note.com/yoshifujidesign/n/n7412bccb5762
 
-### Classic / Pop
+## Classic / Pop
 
 ![image](https://hackmd.io/_uploads/ByC4UltzWg.png)
 ![image](https://hackmd.io/_uploads/B1zB8lFG-e.png)
@@ -463,7 +480,7 @@ Design Rules:
 ```
 source: https://note.com/yoshifujidesign/n/n7412bccb5762
 
-### Tech / Art / Neon
+## Tech / Art / Neon
 ![image](https://hackmd.io/_uploads/BJOY8ltzWx.png)
 ![image](https://hackmd.io/_uploads/r11cIlYfbx.png)
 
@@ -533,7 +550,7 @@ Design Rules:
 ```
 source: https://note.com/yoshifujidesign/n/n7412bccb5762
 
-### Digital / Neo / Pop
+## Digital / Neo / Pop
 
 
 

@@ -1,4 +1,4 @@
-# Awesome NotebookLM Slides Templates 📖
+# Awesome NotebookLM Templates
 
 ![Awesome](https://awesome.re/badge.svg)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
@@ -236,6 +236,126 @@ Please compile [Source Information] in a [mature-cute, sophisticated magazine-st
 ・Overly childish vivid colors, overly flashy gradients, heavy shadows
 ```
 source: https://x.com/tetumemo/status/1996930284500201685?s=20
+
+## Neo-Retro Dev Deck / Pixel-Infographic Editorial
+![unnamed-3](https://hackmd.io/_uploads/HykAwBRf-l.png)
+
+```
+Overall Style Name
+Neo-Retro Dev Deck / Pixel-Infographic Editorial
+1. Core Visual Identity
+Aesthetic:
+Retro-futuristic, developer-centric, editorial infographic style
+Feels like:
+90s computer manuals
+modern AI dev tools marketing
+pixel-art meets startup slide deck
+Mood:
+Confident, playful, opinionated, slightly rebellious
+“Builders explaining the future, not selling fluff”
+2. Canvas & Background
+Use a light cream / off-white grid paper background
+Subtle square grid (engineering notebook feel)
+Grid lines very light, never distracting
+Slides should feel like annotated engineering notes, not corporate PPTs
+3. Typography System
+Primary headline font:
+Bold, heavy sans-serif with strong geometry
+Black text
+Slightly condensed
+High contrast against background
+Language mixing:
+Headlines can be Japanese + English mixed
+English sub-labels under Japanese titles (small, clean)
+Hierarchy:
+Huge bold headline blocks
+Medium sub-titles
+Small explanatory captions below icons or boxes
+4. Color Palette (Strict)
+Use high-contrast blocks with thick black outlines:
+Hot Pink (agent / brain / intelligence concepts)
+Bright Yellow (editor / code / tools)
+Cyan / Light Blue (browser / web / execution)
+Black (text, borders)
+White / cream (background)
+Each section = one dominant color block
+5. Layout Language
+Stacked modular blocks
+Rectangles with thick black borders
+Slight overlaps allowed (intentional, collage-like)
+Horizontal bars for section headers
+Card-based structure for steps, evolution, layers
+Slides should feel assembled, not perfectly aligned
+(controlled imperfection)
+6. Iconography & Graphics
+Use pixel-art style icons, including:
+Rocket
+Robot / agent
+Gear
+Code brackets
+Browser window
+Chat bubbles
+Icons should look:
+Low-resolution
+8-bit or 16-bit inspired
+Flat colors, black outline
+Decorative elements:
+Small gears
+Arrows
+Chevrons <>
+Pixel sparks / motion lines
+7. Content Patterns (Very Important)
+A. “System Architecture” Slides
+Use stacked layers with labels
+Each layer:
+One color
+One icon
+One bold title
+One short explanatory line
+Example structure:
+Agent Manager
+AI Editor
+Agent-Controlled Browser
+B. “Evolution / Timeline” Slides
+Left → right progression
+Each step in its own box:
+Auto-complete
+Chat
+Agent
+New Model (highlighted)
+Final step should be visually larger and more colorful
+C. “Manifesto / Thesis” Slides
+One huge headline in a boxed frame
+Minimal text
+Surrounded by playful icons
+Feels like a statement, not documentation
+8. Tone of Text
+Short
+Declarative
+Slightly opinionated
+No marketing fluff
+Good:
+“Agents execute tasks autonomously”
+“Coding enters the agent era”
+Bad:
+“Empowering users with cutting-edge solutions”
+9. What to Avoid
+No gradients
+No realistic photos
+No soft shadows
+No corporate templates
+No minimalism for its own sake
+This is expressive, not quiet
+10. Generation Instruction (Critical)
+Generate multiple slides following this exact visual system.
+Maintain consistency in:
+grid background
+color usage
+icon style
+typography hierarchy
+Slides should look like they belong to one cohesive deck, not individual posters.
+```
+
 
 ## pink street-style
 
@@ -626,3 +746,155 @@ Additional Notes:
 
 ```
 source: https://note.com/yoshifujidesign/n/n7412bccb5762
+
+## Anti-Gravity / Artifact Deck
+
+![unnamed-6](https://hackmd.io/_uploads/B1EVPrCfWl.png)
+![unnamed-7](https://hackmd.io/_uploads/rk4EDBAMbx.png)
+![unnamed-8](https://hackmd.io/_uploads/ryN4Dr0zbl.png)
+
+
+```
+Style Name
+Anti-Gravity / Living Artifact Presentation
+1. Core Concept (This Matters Most)
+This presentation is not a slide deck.
+It is a living artifact.
+Visualizes thinking becoming structure
+Feels like an interface for ideas
+Calm, modern, confident, precise
+Built for agents, systems, and future workflows
+Think:
+Apple-level clarity
+Google DeepMind research decks
+Calm AI infrastructure product launches
+2. Overall Aesthetic
+Minimal
+Airy
+High negative space
+No visual noise
+Everything feels intentional and breathable
+Emotion:
+“This system already works. We are just showing you.”
+3. Background & Canvas
+Pure white background as default
+Add soft, flowing gradient accents:
+Blue → cyan → violet
+Very low opacity
+Appears on corners or edges only
+Never behind text
+Gradients feel like:
+Light
+Motion
+Energy
+Anti-gravity fields
+No hard shapes. No grids. No textures.
+4. Typography System
+Headlines
+Clean, modern sans-serif
+Slightly rounded geometry
+Medium–bold weight
+Calm authority (not aggressive)
+Examples:
+“Anti-gravity”
+“Artifact”
+“Agent-controlled Browser”
+Language
+Japanese primary
+English secondary labels
+English often smaller and lighter
+Hierarchy
+Large headline
+One concise explanatory sentence
+Short bullet or paragraph blocks
+No long paragraphs.
+5. Color System
+Use very restrained color:
+Primary text:
+Black or very dark gray
+Accent color:
+Calm blue (used sparingly)
+Used for:
+Headline emphasis
+Arrows
+Key icons
+Gradients are decorative, not structural
+If everything looks calm and confident, it’s correct.
+6. Layout Language
+Left-aligned layouts
+Clear reading flow
+Wide margins
+Lots of white space
+Common structures:
+Text on left, visual on right
+Three-column feature cards
+One idea per slide
+Slides feel like product docs turned into visuals
+7. Visual Metaphors
+Use simple, conceptual metaphors:
+A. Thought → Structure
+Messy scribble illustration
+Arrow
+Clean diagram / checklist / UI
+This shows:
+“Agents turn ambiguity into artifacts.”
+B. Interface as Proof
+Realistic browser / app screenshots
+Cursor highlights
+Click indicators
+Message:
+“The agent actually does this.”
+C. Cards as Capabilities
+Soft rounded rectangles
+Subtle shadows
+Icon + title + 1–2 lines
+No decoration beyond function.
+8. Iconography
+Thin-line icons
+Outline style
+Consistent stroke weight
+Calm and professional
+Examples:
+Code brackets
+Network / manager node
+Browser window
+Checklist
+Diagram nodes
+No pixel art. No emojis. No playful icons.
+9. Motion & Flow (Implied)
+Even in static slides, imply motion:
+Arrows
+Directional flow
+Sequential layouts
+Everything suggests systems in operation, not static diagrams.
+10. Tone of Copy
+Clear
+Precise
+Slightly philosophical
+No hype language
+Good:
+“検証可能な結果”
+“動的な情報表現”
+“生きたドキュメント”
+Avoid:
+Buzzwords
+Marketing slogans
+Emotional exaggeration
+11. What to Avoid (Strict)
+No pixel art
+No thick borders
+No bright blocks
+No collage
+No stickers
+No loud contrasts
+If it feels “fun”, it’s wrong.
+If it feels “inevitable”, it’s right.
+12. Generation Instruction (Important)
+Generate a cohesive multi-slide presentation following this system.
+Maintain:
+White space discipline
+Soft gradient accents
+Calm typographic hierarchy
+Minimal but meaningful visuals
+Every slide should feel like part of one product narrative, not standalone posters.
+```

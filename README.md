@@ -30,6 +30,7 @@ If you want NotebookLM to consistently generate slides that hit, **this is the r
 - [Mincho × Handwritten Mix](#mincho-font--handwritten-mix)
 
 ### D. Artistic & Avant-Garde Styles
+- [Deformed Flat Persona](#deformed-flat-persona)
 - [Royal Blue × Red Watercolor](#royal-blue-and-red)
 - [Classic / Pop (Sculpture × Vaporwave)](#classic--pop)
 - [Tech / Art / Neon](#tech--art--neon)
@@ -56,7 +57,7 @@ Based on the following "design definition," generate a visually focused, high-se
 
 [Important: Absolutely Prohibited Output Format Rules]
 * **Complete Exclusion of Markdown Symbols**: Do not include symbols like "#" for headings or "*" and "**" for emphasis in the slide text **under any circumstances**.
-* **Plain Text Only**: Text displayed on the slide must consist solely of "pure English text" without any decorative symbols.
+* **Plain Text Only**: Text displayed on the slide must consist solely of "pure Japanese and English text" without any decorative symbols.
 
 [Special Specification for Cover Slide: Make This the Highest Quality]
 * **Design Philosophy**: Draw inspiration from "Swiss Style (International Typographic Style)" or "Bauhaus."
@@ -898,3 +899,32 @@ Calm typographic hierarchy
 Minimal but meaningful visuals
 Every slide should feel like part of one product narrative, not standalone posters.
 ```
+
+## Deformed Flat Persona
+
+
+
+![G8p_wILbkAAa2hr-min](https://hackmd.io/_uploads/r1HEH0um-x.jpg)
+![G8p_1m1asAE5Dy1-min](https://hackmd.io/_uploads/SkqEB0dQZl.jpg)
+![G8p_3Lya4AEJCqk-min](https://hackmd.io/_uploads/Ska4SCdXZl.jpg)
+
+```
+# Style:
+- Flat colors
+
+# Illustration:
+- A person with slightly deformed form
+- Thick outlines
+
+# Color:
+- Gentle tones with a bit of white mixed in
+- Up to 3 colors allowed
+
+# Outline:
+- Thick
+
+# Background:
+- Solid flat color with 1 color
+```
+
+source: [Kawai](https://x.com/kawai_design)

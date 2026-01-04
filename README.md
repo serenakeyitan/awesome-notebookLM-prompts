@@ -5,7 +5,7 @@
 
 NotebookLM Slide Prompt⚡️
 
-> A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground — Note, WeChat, blogs, RED creators, and Twitter/X power users.
+> A curated collection of the strongest NotebookLM & Kael.im slide prompts sourced from the real creative underground — Note, WeChat, blogs, RED creators, and Twitter/X power users.
 
 These prompts are field-tested by people who ship fast: **researchers, founders, designers**. Use them to turn papers, notes, transcripts, or random brain dumps into **clean, structured, presentation-ready decks** that actually look intentional.
 

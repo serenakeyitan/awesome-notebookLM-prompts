@@ -11,6 +11,8 @@ These prompts are field-tested by people who ship fast: **researchers, founders,
 
 If you want NotebookLM to consistently generate slides that hit, **this is the repo!**
 
+### TRY [Kael.im](https://kael.im/home)(NotebookLM slides alternative) and register at this link for 100 pages free daily quota (nbp)!
+
 ## Table of Contents
 
 ### A. Editorial & Business Styles

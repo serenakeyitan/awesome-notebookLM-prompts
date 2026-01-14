@@ -54,7 +54,7 @@ If you want NotebookLM to consistently generate slides that hit, **this is the r
 
 
 ```
-You are a top art director leading Japan's "new economy business media."
+You are a top art director leading Japan's "new economy business media." But the language should be what users said in the prompt. so not nessecery in japanese.
 Based on the following "design definition," generate a visually focused, high-sensibility presentation slide that sparks intellectual excitement in business professionals of the smartphone generation.
 
 [Important: Absolutely Prohibited Output Format Rules]
@@ -83,7 +83,7 @@ Based on the following "design definition," generate a visually focused, high-se
 4.  **Typography (Text as Graphic)**:
     * Position headlines at an "**ultra-massive size**" occupying **30%–50%** of the slide's area.
     * **Extreme Jump Ratio**: The size ratio between "headlines" and "body text" must be **10:1** or more. No half-hearted size differences allowed.
-    * For Japanese headlines, use **extra-bold sans-serif** (Impact/Hiragino W8 weight) to treat them as a "surface," and tuck ultra-thin English fonts into the gaps for a sense of airiness.
+    * For headlines, use **extra-bold sans-serif** (Impact/(Hiragino) W8 weight) to treat them as a "surface," and tuck ultra-thin English fonts into the gaps for a sense of airiness.
 
 5.  **Overall Structure**:
     * Strictly adhere to "1 slide = 1 message."
@@ -114,7 +114,7 @@ Global Design Settings:
     Special: "Dark mode (black background) – used for slides that need emphasis"
   Typography:
     Headings: "English sans-serif (e.g., Helvetica Now, Inter). Bold and decoratively positioned."
-    Body: "Japanese Gothic typeface. Small size with generous letter spacing and line height."
+    Body: "Japanese Gothic typeface. Small size with generous letter spacing and line height." But the language should be what users said in the prompt. so not nessecery in japanese.
   Common Layout Rules:
     Navigation: "Place a small section number and title such as '01. INTRODUCTION' in the top-left (or top-right) of every slide."
     Grid: "Use a strict grid system to align elements."
@@ -134,7 +134,7 @@ Layout Variations (Catalog):
     Design: "Office interior photography occupying the full screen (or more than half). Concrete textures, desks lined with Macs. Reduce saturation for a cool tone. Add a very small caption in the bottom-left."
 
   - Type: "Photo + List Split"
-    Design: "50:50 split. Left: architectural or abstract photography. Right: data list (English bold headings + Japanese light-weight descriptions). Used for company info. Bold item names (English), thin body text (Japanese). Generous spacing; avoid overcrowding."
+    Design: "50:50 split. Left: architectural or abstract photography. Right: data list (bold headings + light-weight descriptions). Used for company info. Bold item names, thin body text. Generous spacing; avoid overcrowding." But the language should be what users said in the prompt. so not nessecery in japanese.
 
   - Type: "Minimal Map"
     Design: "Silhouette-style map. Light gray background with a white map. Use ultra-thin callout lines to indicate locations."
@@ -195,7 +195,7 @@ source: [Kawai](https://x.com/kawai_design)
 ![image](https://hackmd.io/_uploads/ryZ0YJtfWe.png)
 
 ```
-Background is white, text is black, accent color is blood orange, stylish design that a creative agency might create, incorporating dynamic and simple photos and English typography
+Background is white, text is black, accent color is blood orange, stylish design that a creative agency might create, incorporating dynamic and simple photos and English typography. But the language should be what users said in the prompt. so not nessecery in japanese.
 ```
 source: [Kawai](https://x.com/kawai_design)
 ## Manga style
@@ -225,6 +225,7 @@ Please compile [Source Information] in a [mature-cute, sophisticated magazine-st
 ・Place a vertical text box (white background) at the edge of the screen (e.g., right side) and insert a catchy copy
 ・Place L-shaped lines resembling crop marks ("trim marks") in the four corners to create a poster or page-like feel
 ・Format: Landscape (4:3 or 3:2), high resolution
+・But the language should be what users said in the prompt. so not nessecery in japanese.
 
 # Design Requirements
 ・Background color: Matte, subdued tone stylish pink (dusty pink or shell pink)
@@ -268,8 +269,8 @@ Black text
 Slightly condensed
 High contrast against background
 Language mixing:
-Headlines can be Japanese + English mixed
-English sub-labels under Japanese titles (small, clean)
+Headlines can be "the language should be what users said in the prompt" + English mixed
+English sub-labels under "the language should be what users said in the prompt" titles (small, clean)
 Hierarchy:
 Huge bold headline blocks
 Medium sub-titles
@@ -396,7 +397,7 @@ source: [Kawai](https://x.com/kawai_design)
 ![Screenshot 2025-12-11 at 17.23.28](https://hackmd.io/_uploads/H1yiCyFzZe.png)
 
 ```
-Shades of royal Blue and Red wet watercolor.  Focus on different artistic styles to be used with NotebookLM Slides decks.
+Shades of royal Blue and Red wet watercolor.  Focus on different artistic styles to be used with kael/notebooklm Slides decks.
 ```
 source: https://x.com/kottley/status/1994442047579721782?s=20
 
@@ -434,7 +435,7 @@ Visual Identity:
     Layout: "Card-based UI, grid layout, oversized numbers"
 
 Typography:
-  Headings: "Blocky sans serif type with a large jump ratio. English large, Japanese small."
+  Headings: "Blocky sans serif type with a large jump ratio. English large, (the language should be what users said in the prompt) small."
   Body: "Thin gray gothic font. For emphasis, place text on black (#000000), white (#FFFFFF), Electric Purple (#8D59E9), or Acid Yellow (#EBE021)."
 
 Common Layout Rules:
@@ -444,7 +445,7 @@ Common Layout Rules:
 
 Layout Variations:
   - Type: "Hero Display"
-    Design: "Center the Studio Display with a black-background UI and ultra-bold white title (e.g., 'STUDIO DISPLAY MOCKUPS'). Large English title, small Japanese subtitle."
+    Design: "Center the Studio Display with a black-background UI and ultra-bold white title (e.g., 'STUDIO DISPLAY MOCKUPS'). Large English title, small (the language should be what users said in the prompt) subtitle."
 
   - Type: "Floating Mobile"
     Design: "Float an iPhone mockup in mid-air showing an app UI. Add blurred accent-colored lighting behind it."
@@ -471,7 +472,7 @@ Layout Variations:
     Design: "Left: large numbers ('16', '3680'). Right: descriptive text. Wrap in card-like frames."
 
   - Type: "Feature List Card"
-    Design: "White background with rounded gray band (#F5F5F7). Inside: aligned icons + text, large English title, small Japanese subtitle."
+    Design: "White background with rounded gray band (#F5F5F7). Inside: aligned icons + text, large English title, small (the language should be what users said in the prompt) subtitle."
 
 Design Rules:
   - "High Resolution: All mockup images must be high resolution with no visible pixels."
@@ -803,7 +804,7 @@ Examples:
 “Artifact”
 “Agent-controlled Browser”
 Language
-Japanese primary
+(the language should be what users said in the prompt) primary
 English secondary labels
 English often smaller and lighter
 Hierarchy
@@ -875,10 +876,6 @@ Clear
 Precise
 Slightly philosophical
 No hype language
-Good:
-“検証可能な結果”
-“動的な情報表現”
-“生きたドキュメント”
 Avoid:
 Buzzwords
 Marketing slogans

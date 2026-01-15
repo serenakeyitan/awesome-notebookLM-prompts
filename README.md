@@ -5,13 +5,13 @@
 
 NotebookLM Slide Prompt⚡️
 
+### TRY [Kael.im](https://kael.im/home)(NotebookLM slides alternative) and register at this link for 100 pages free daily quota (nbp)!
+
 > A curated collection of the strongest NotebookLM & Kael.im slide prompts sourced from the real creative underground — Note, WeChat, blogs, RED creators, and Twitter/X power users.
 
 These prompts are field-tested by people who ship fast: **researchers, founders, designers**. Use them to turn papers, notes, transcripts, or random brain dumps into **clean, structured, presentation-ready decks** that actually look intentional.
 
 If you want NotebookLM to consistently generate slides that hit, **this is the repo!**
-
-### TRY [Kael.im](https://kael.im/home)(NotebookLM slides alternative) and register at this link for 100 pages free daily quota (nbp)!
 
 ## Table of Contents
 

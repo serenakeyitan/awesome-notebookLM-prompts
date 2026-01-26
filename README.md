@@ -12,6 +12,8 @@ These prompts are field-tested by people who ship fast: **researchers, founders,
 
 If you want NotebookLM to consistently generate slides that hit, **this is the repo!**
 
+I also built a [citation checker skill](https://github.com/serenakeyitan/citation-check-skill) that detecting hallucinated missing citations in ur slides. Feel free to add it to ur workflow.
+
 ## Table of Contents
 
 ### A. Editorial & Business Styles

@@ -22,6 +22,7 @@ I also built a [citation checker skill](https://github.com/serenakeyitan/citatio
 - [Yellow × Black Editorial](#yellow--black-editorial)
 - [Black × Orange Creative Agency](#black--orange-creative-agency)
 - [For Seminar Use (Minimal Text)](#for-seminar-use-minimal-text)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ### B. Pop, Youth, and Street Styles
 - [Manga Style](#manga-style)

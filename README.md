@@ -16,6 +16,15 @@ If you want NotebookLM to consistently generate slides that hit, **this is the r
 
 I also built a [citation checker skill](https://github.com/serenakeyitan/citation-check-skill) that detecting hallucinated missing citations in ur slides. Feel free to add it to ur workflow.
 
+<p align="center">
+  <a href="https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=awesome-notebookLM-prompts">
+    <img src="./assets/atlas-cloud-logo.png" alt="Atlas Cloud logo" width="220">
+  </a>
+</p>
+
+> 🎁 **[Atlas Cloud](https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=awesome-notebookLM-prompts)** gives prompt-heavy NotebookLM workflows a single OpenAI-compatible API for outline drafting, prompt iteration, and slide scripting with models like DeepSeek, Qwen, GLM, Kimi, and MiniMax, without juggling separate vendor integrations.
+> Budget-friendly for prompt experimentation: [coding plan](https://www.atlascloud.ai/console/coding-plan)
+
 ## Table of Contents
 
 ### A. Editorial & Business Styles

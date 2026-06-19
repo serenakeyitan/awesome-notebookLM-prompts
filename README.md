@@ -2,6 +2,8 @@
 ### TRY [Kael.im](https://kael.im/home)(NotebookLM slides alternative) and register at this link for 100 pages free daily quota (nbp)! 
 > check out my recent work at https://github.com/agent-team-foundation/first-tree 🥇
 
+> use this [link](https://cloud.first-tree.ai/login?utm_source=github&utm_medium=readme&utm_campaign=awesome-notebookLM-prompts-app) to use [first-tree 🌳](https://first-tree.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-notebookLM-prompts-site) for **free!!!** — the most efficient way to **loopmaxx your engineering work** :D
+
 ![repo_banner](https://hackmd.io/_uploads/HJdglgwrZe.png)
 ![Awesome](https://awesome.re/badge.svg)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
